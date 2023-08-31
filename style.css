@@ -1,0 +1,75 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #333; /* Cor de fundo do cabeçalho */
+    text-align: center;
+    padding: 50px 0; /* Espaçamento superior e inferior */
+}
+
+/* Estilos para os títulos */
+h1 {
+    color: #fff; /* Texto em branco */
+    margin-bottom: 20px;
+    text-transform: uppercase; /* Caixa alta */
+    font-weight: bold; /* Negrito */
+    font-size: 36px; /* Tamanho de fonte */
+}
+
+h2 {
+    color: #666;
+    margin-top: 0;
+}
+
+h3 {
+    margin: 0;
+}
+
+/* Estilos para os artigos */
+article {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para as imagens nos artigos */
+article img {
+    width: 50%; /* Todas as imagens ocupam 50% da largura */
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    object-fit: cover;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #4CAF50; /* Cor de fundo verde */
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Estilos para os parágrafos */
+p {
+    color: #444;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    font-weight: bold; /* Texto em negrito */
+    font-family: "Times New Roman", serif; /* Fonte Times New Roman */
+}
+
+/* Estilos para os parágrafos no rodapé */
+footer p {
+    display: inline-block; /* Alinha os parágrafos do rodapé lado a lado */
+    margin: 0 10px; /* Espaçamento entre os parágrafos do rodapé */
+}
+
+
+
