@@ -70,6 +70,13 @@ footer p {
     display: inline-block; /* Alinha os parágrafos do rodapé lado a lado */
     margin: 0 10px; /* Espaçamento entre os parágrafos do rodapé */
 }
+div{
+    font-family: 'Lilita One', cursive;
+font-family: 'Poller One', cursive;
+font-size: 50px;
+text-align: center;
+color: white;
+}
 
 
 
